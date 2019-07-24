@@ -10,14 +10,14 @@ Note: the separation between the short name and url should be exactly the Tab ke
 You can also create an Excel-file, in the first column short names, in the second address for redirection, and then just copy all the data into a text document.
 
 # example
-video https://vk.com
-club https://github.com
-timer https://skype.com
-100 http://google.com
+- video https://vk.com
+- club https://github.com
+- timer https://skype.com
+- 100 http://google.com
 
 # Result
-http: //your_site/go/video.htm you will be redirected to https://vk.com
-http: //your_sayt/go/club.htm you will be redirected to https://github.com
-http: // your_site/go/timer.htm you will be redirected to https://skype.com
-http: //your_sayt/go/100.htm you will be redirected to https://google.com
+- http://your_site/go/video.htm you will be redirected to https://vk.com ![]
+- http://your_sayt/go/club.htm you will be redirected to https://github.com 
+- http:// your_site/go/timer.htm you will be redirected to https://skype.com
+- http:///your_sayt/go/100.htm you will be redirected to https://google.com
 
